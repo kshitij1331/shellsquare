@@ -30,7 +30,7 @@
     - [a file exists or not](Chapters/Chapter4/4.md)
     - [a directory exists or not](Chapters/Chapter4/4.md)
 
-## [EXTRAS: The Level up tasks]
+## EXTRAS: The Level up tasks
 - [Print on new line](Chapters/EXTRAS/1.md)
 - [Calculate sum of two numbers as a command line argument](Chapters/EXTRAS/2.md)
 - [Taking Password as input](Chapters/EXTRAS/3.md)
