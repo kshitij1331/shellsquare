@@ -18,17 +18,17 @@
 - [Using Bitwise Operations](Chapters/Chapter3/4.md)
 
 ## Chapter 4: The Conditional Conundrums 🤔
-- [The What, Why and How's of conditions in linux](Chapters/Chapter4/1.md)
-- [Arithmatic operations with conditions](Chapters/Chapter4/2.md)
+- [The What, Why and Types of conditionals in linux](Chapters/Chapter4/1.md)
+- [Arithmatic operations with conditionals](Chapters/Chapter4/2.md)
 - [Logical operations based on user's input](Chapters/Chapter4/3.md)
-- [Using conditions to analyze](Chapters/Chapter4/4.md)
-    - [a number is even or odd](Chapters/Chapter4/4.md)
-    - [a valid Email ID](Chapters/Chapter4/4.md)
-    - [a valid URL](Chapters/Chapter4/4.md)
-    - [a number is positive or negative](Chapters/Chapter4/4.md)
-    - [a file is writable or not](Chapters/Chapter4/4.md)
-    - [a file exists or not](Chapters/Chapter4/4.md)
-    - [a directory exists or not](Chapters/Chapter4/4.md)
+- [Using conditionals examples](Chapters/Chapter4/4.md)
+    - [To find a number is even or odd](Chapters/Chapter4/4.md)
+    - [To find a valid Email ID](Chapters/Chapter4/4.md)
+    - [To find a valid URL](Chapters/Chapter4/4.md)
+    - [To find a number is positive or negative](Chapters/Chapter4/4.md)
+    - [To find a file is writable or not](Chapters/Chapter4/4.md)
+    - [To find a file exists or not](Chapters/Chapter4/4.md)
+    - [To find a directory exists or not](Chapters/Chapter4/4.md)
 
 ## EXTRAS: The Level up tasks🌟
 - [Print on new line](Chapters/EXTRAS/1.md)
