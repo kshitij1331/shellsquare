@@ -13,18 +13,7 @@ Shell scripts allow users to automate tasks, execute commands, manipulate files 
 - **System Administration**: They are widely used in system administration for tasks like managing users, configuring services, and monitoring system resources.
 - **Customization**: Users can customize and extend shell scripts to suit their specific needs and workflows.
 
-## Getting Started
-To start writing shell scripts, you only need a text editor and a basic understanding of shell scripting syntax. Here's a simple example of a Hello World script in Bash:
-
-```bash
-#!/bin/bash
-# This is a simple Hello World script in Bash
-
-echo "Hello, world!"
-```
-
-Save the above script in a file (e.g., `hello.sh`), make it executable (`chmod +x hello.sh`), and then run it (`./hello.sh`). You should see `Hello, world!` printed to the terminal.
-
+## [Goto the table of contents ](table_of_contents.md)🚀
 
 
 ## Contributing
