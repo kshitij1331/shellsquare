@@ -1,23 +1,23 @@
 # Table of Contents
 
-## Chapter 1: Introduction to shell scripting
+## Chapter 1: Introduction to shell scripting 🚀
 - [The What, Why and How's of scripting](Chapters/Chapter1/1.md)
 - [Creating your first script](Chapters/Chapter1/2.md)
 
-## Chapter 2: The Variable Verse
+## Chapter 2: The Variable Verse 🌌
 - [The What, Why and How's of varibles in linux](Chapters/Chapter2/1.md)
 - [Getting user's input](Chapters/Chapter2/2.md)
 - [Concatenate variables](Chapters/Chapter2/3.md)
 - [Passing values as commands line arguments](Chapters/Chapter2/4.md)
 - [Playing with environment variables](Chapters/Chapter2/5.md)
 
-## Chapter 3: The Operator Odyssey
+## Chapter 3: The Operator Odyssey 🤖
 - [The What, Why and How's of operators in linux](Chapters/Chapter3/1.md)
 - [Arithmatic operations using operators](Chapters/Chapter3/2.md)
 - [Getting random numbers](Chapters/Chapter3/3.md)
 - [Using Bitwise Operations](Chapters/Chapter3/4.md)
 
-## Chapter 4: The Conditional Conundrums
+## Chapter 4: The Conditional Conundrums 🤔
 - [The What, Why and How's of conditions in linux](Chapters/Chapter4/1.md)
 - [Arithmatic operations with conditions](Chapters/Chapter4/2.md)
 - [Logical operations based on user's input](Chapters/Chapter4/3.md)
@@ -30,7 +30,7 @@
     - [a file exists or not](Chapters/Chapter4/4.md)
     - [a directory exists or not](Chapters/Chapter4/4.md)
 
-## EXTRAS: The Level up tasks
+## EXTRAS: The Level up tasks🌟
 - [Print on new line](Chapters/EXTRAS/1.md)
 - [Calculate sum of two numbers as a command line argument](Chapters/EXTRAS/2.md)
 - [Taking Password as input](Chapters/EXTRAS/3.md)
