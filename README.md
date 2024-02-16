@@ -1,3 +1,4 @@
+
 ## 🚀 About Me
 Hello , I am Kshitij Choubey an Oracle and Red Hat Certified Engineer, proficient in System Administration, Database Management, and Scripting in Linux.
 
@@ -5,7 +6,7 @@ Hello , I am Kshitij Choubey an Oracle and Red Hat Certified Engineer, proficien
 ## 🔗 Connect with me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kshitijchoubey.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-choubey-9a74a4124/)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@thekshitijchoubey)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KCverse)
 
 
 ## Basics of Shell Scripting in Linux [Square]
